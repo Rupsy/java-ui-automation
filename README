@@ -1,0 +1,13 @@
+Automate UI workflow using Java + Selenium.
+
+We can automate our regression suite so that testing cycle is more effecient. This project automates some of the flipkart UI Workflow.
+
+Technical Dependency : * Selenium
+                    * Chrome Driver
+                    * Java 
+                    * Test NG 
+Which UI we are automating ? Flipkart
+
+This project has the complete java project which includes -> Use Cases which were automated 
+                                                          -> Java Project 
+                                                          -> pom.xml 
