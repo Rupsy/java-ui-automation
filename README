@@ -11,3 +11,19 @@ Which UI we are automating ? Flipkart
 This project has the complete java project which includes -> Use Cases which were automated 
                                                           -> Java Project 
                                                           -> pom.xml 
+
+Basic Java Project Step set up :
+1-> Launch eclipse. 
+2-> Create a Java maven project. 
+3-> In the project -> pom.xml add the selenium dependency along with all other dependencies which you might need for your project.
+  
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.3.0</version>
+</dependency>
+
+
+
+
